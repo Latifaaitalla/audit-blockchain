@@ -365,5 +365,5 @@ Power BI se connecte directement à PostgreSQL afin de visualiser :
 
 # Auteur
 
-AIT ALLA Latifa 
+AIT ALLA Latifa et 
 BOUZIANE Salma 
