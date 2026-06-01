@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+venv/
+.env
+
+Data/hashes/
+Data/extracted/
+Data/transformed/
+
+*.log
+
+private_key.txt
